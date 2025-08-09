@@ -25,7 +25,7 @@ Here are some screenshots of the project:
 
 ## License
 
-This project is licensed under the terms of the [LICENSE](LICENSE) file.
+This project is licensed under the terms of the [LICENSE](LICENSE.md) file.
 
 ## Last Updated
 
