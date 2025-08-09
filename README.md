@@ -3,7 +3,7 @@
 **Created by: Elifnur Ozcelik**
 
 ## Description
-This is a simple command-line To-Do List application developed in Python. It allows users to manage daily tasks with functionalities to add, edit, delete, and list tasks. Tasks are saved persistently in a local text file (tasks.txt), ensuring your list is retained between sessions.
+This is a simple command-line To-Do List application developed in Python. It allows users to manage daily tasks with functionalities to add, edit, delete, and list tasks. Tasks are saved persistently in a local text file (`tasks.txt`), ensuring your list is retained between sessions.
 
 
 - Provide a numbered display of all tasks for better task management
